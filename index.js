@@ -8,7 +8,7 @@ let grup = true;
 //----------------
 
 //Commandnya Bisa Edit Sesukamu
-let command = "#quoteit";
+let command = "/quoteit";
 //----------------
 
 //Function QuoteIT
